@@ -1,0 +1,105 @@
+{
+  "configVersion": 1,
+  "timestamp": 1681975769409,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/241.9170cb50f418a120.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.14fe81c7349219ca.js",
+        "/manifest.webmanifest",
+        "/polyfills.74e47b629dd41fa5.js",
+        "/runtime.304b8fe9c2b03351.js",
+        "/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/check.gif",
+        "/assets/fail.png",
+        "/assets/icons/apple-touch-icon.png",
+        "/assets/icons/favicon-16x16.png",
+        "/assets/icons/favicon-32x32.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-154x154.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/mtracklogo.png",
+        "/assets/pass.png",
+        "/assets/refresh.png",
+        "/assets/sign-out.png",
+        "/assets/user.png",
+        "/assets/wrong.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/241.9170cb50f418a120.js": "602d801c2bb4453d853375b49283a4c163f0c37d",
+    "/assets/check.gif": "d4430e3106ba7c020dad4291bbefae9081d1672f",
+    "/assets/fail.png": "85fc2b5517b54455878e529a25cc40e67d8a9ea0",
+    "/assets/icons/apple-touch-icon.png": "5b7b3c9c0d32dbd4ed90700d3a054d776943b479",
+    "/assets/icons/favicon-16x16.png": "5d40523b8e7100e5f206c7f9c99ae9f2c5484a2f",
+    "/assets/icons/favicon-32x32.png": "7f0b35694b7d7d37fd28cd207b54eb173c7654b1",
+    "/assets/icons/icon-128x128.png": "2ec12171b9a865b94447773ce71b056a3ee70f88",
+    "/assets/icons/icon-144x144.png": "1f5d1653dd77be885bd1be3d8ab8815b33f2c910",
+    "/assets/icons/icon-154x154.png": "8167ba2a7c67cfc09bacb994c20d57937079431d",
+    "/assets/icons/icon-192x192.png": "563faa2d25a557a5c3799cccdea025fbdcf6c695",
+    "/assets/icons/icon-384x384.png": "a65083bed623e41e6590ac40967f107bd1f01daa",
+    "/assets/icons/icon-512x512.png": "1fcb72bb188f4b36a74f304948aea08d35882062",
+    "/assets/icons/icon-72x72.png": "3078563e173854c93da4c86a5f38518daeb7fb71",
+    "/assets/icons/icon-96x96.png": "8e4dbe2e3bb806637dfb7a4667c18988096fcae7",
+    "/assets/mtracklogo.png": "9a2ed31f3dcf6be1bd0209fbe5f12120d2b44547",
+    "/assets/pass.png": "7929e86c144242a3106476da44d9aa237af92354",
+    "/assets/refresh.png": "c8759ccaadd7753437efe1cf146e08e3159d53ec",
+    "/assets/sign-out.png": "1c4e0f39ded56412d5a19dba0721192a5d5ef210",
+    "/assets/user.png": "65edefd3b254451dba334f82c675058f0f955616",
+    "/assets/wrong.gif": "96a78af7f654ce1902fb3cc28222045ce95f14ac",
+    "/favicon.ico": "983aa5000f735728b78c8d3910fc0530359f7303",
+    "/index.html": "1d8f9a8d0c57149d0738425847619231b7399359",
+    "/main.14fe81c7349219ca.js": "7f68d417b282561239f446d13e164bef8b1ed050",
+    "/manifest.webmanifest": "2685eb4cd14eb66033643ca9d5f9bd90294a4fc2",
+    "/polyfills.74e47b629dd41fa5.js": "08cc7e8f5369b10dd9fcf20ff748096844ce428f",
+    "/runtime.304b8fe9c2b03351.js": "e981de9e4356125690a75332e2ebf79b05d8e972",
+    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
